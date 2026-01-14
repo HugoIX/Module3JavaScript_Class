@@ -114,8 +114,8 @@
 // }()
 // )
 
-let stateUser = "active";
-let msn;
+// let stateUser = "active";
+// let msn;
 
 // if (stateUser == "active"){
 //     msn = "El usuario puede ingresar";
@@ -208,7 +208,7 @@ let msn;
 
 // }
 
-const fruits = ["manzana", "pera", "piña", "mora", "mango", "melocoton"];
+// const fruits = ["manzana", "pera", "piña", "mora", "mango", "melocoton"];
 // for (let i = 0; i < fruits.length; i++) {
 
 //     console.log(`La fruta es ${fruits[i]}`)
@@ -268,5 +268,7 @@ const fruits = ["manzana", "pera", "piña", "mora", "mango", "melocoton"];
 // isActive = flag && "Está activo";
 
 // console.log(isActive)
+
+
 
 
